@@ -1,3 +1,5 @@
+<?php
+
 function solution(array $inputArr)
 {
    $count = count($inputArr);
